@@ -1,15 +1,15 @@
-# API Testing Made Developer-First with Requestly
+# Appwrite API Playground — Requestly Collection
 
-**Requestly** is a Git-friendly API testing tool built for developers who prefer version control over manual exports.
+Test the core Appwrite APIs locally using Requestly — no manual setup, no shared links, no extra accounts.
+
+**[Requestly](https://requestly.com)** is a Git-friendly API testing tool that lives inside your repo. Clone the project, open Requestly, point it at the `.requestly/` folder, and your entire API collection is ready to use. No imports, no exports, no friction.
+
+
+[Requestly](https://requestly.com) is a Git-friendly API testing tool built for developers who prefer version control over manual exports.
 
 ![Appwrite API Playground](https://github.com/shrawansaproo/appwrite-local/blob/f15c106d848383ebd12c82c552a680b66f1563c5/appwrite-api-play.png)
 
-No accounts. No collection sharing links. No sync conflicts.  
-Just clone → import → test → ship.
-
-**Requestly GitHub**: https://github.com/requestly/requestly
-
-
+<img width="1440" height="900" alt="API Testing" src="https://github.com/user-attachments/assets/78e659ff-ed35-4185-aa3b-ade597002240" />
 ## Quick Links — Products & Services Used
 
 - **Requestly** → https://github.com/requestly/requestly  
@@ -127,5 +127,6 @@ Just open Requestly, point it at this repo, and start building.
 API testing should integrate seamlessly into your development workflow.
 
 With Requestly, it does.
+
 
 ---
