@@ -22,7 +22,7 @@
       {
         "id": 1771613948741,
         "key": "X-Appwrite-Project",
-        "value": "6998a62f001b23ac94ed",
+        "value": "<YOUR_PROJECT_ID>",
         "isEnabled": true,
         "description": "",
         "dataType": "string"
@@ -30,7 +30,7 @@
       {
         "id": 1771613959728,
         "key": "X-Appwrite-Session",
-        "value": "69a0017b6978ebb05e79",
+        "value": "<YOUR_SESSION_ID>",
         "isEnabled": true,
         "description": "",
         "dataType": "string"
