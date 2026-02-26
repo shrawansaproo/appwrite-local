@@ -14,6 +14,8 @@ Test the core Appwrite APIs locally using Requestly, no manual setup, no shared 
 
 <img width="1440" height="900" alt="API Testing" src="https://raw.githubusercontent.com/shrawansaproo/appwrite-local/main/appwrite-api-play.png" />
 
+No accounts. No collection sharing links. No sync conflicts. Just clone → import → test → ship.
+
 ## Quick Start: API Testing with Requestly
 
 Get up and running with Appwrite's APIs in under 60 seconds using Requestly, no manual setup, no copy-pasting cURL commands.
@@ -123,3 +125,4 @@ Just open Requestly, point it at this repo, and start building.
 API testing should integrate seamlessly into your development workflow.
 
 With Requestly, it does.
+
