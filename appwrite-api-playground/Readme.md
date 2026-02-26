@@ -1,23 +1,15 @@
-# Appwrite API Playground — Requestly Collection
+# Appwrite API Playground – Requestly Collection
 
-Test the core Appwrite APIs locally using Requestly — no manual setup, no shared links, no extra accounts.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shrawansaproo/appwrite-local/main/appwrite%20logo.png" alt="Appwrite Logo" height="90"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/shrawansaproo/appwrite-local/main/requestly%20logo.png" alt="Requestly Logo" height="90"/>
+</p>
 
-**[Requestly](https://requestly.com)** is a Git-friendly API testing tool that lives inside your repo. Clone the project, open Requestly, point it at the `.requestly/` folder, and your entire API collection is ready to use. No imports, no exports, no friction.
+---
 
-
-[Requestly](https://requestly.com) is a Git-friendly API testing tool built for developers who prefer version control over manual exports.
-
-![Appwrite API Playground](https://github.com/shrawansaproo/appwrite-local/blob/f15c106d848383ebd12c82c552a680b66f1563c5/appwrite-api-play.png)
-
-<img width="1440" height="900" alt="API Testing" src="https://github.com/user-attachments/assets/78e659ff-ed35-4185-aa3b-ade597002240" />
-## Quick Links — Products & Services Used
-
-- **Requestly** → https://github.com/requestly/requestly  
-- **Appwrite** → https://github.com/appwrite/appwrite  
-- **Docker** → https://github.com/docker  
-- **Docker Compose** → https://github.com/docker/compose  
-
-
+Test the core Appwrite APIs locally using Requestly —  
+no manual setup, no shared links, no extra accounts.
 ## Quick Start: API Testing with Requestly
 
 Get up and running with Appwrite's APIs in under 60 seconds using Requestly — no manual setup, no copy-pasting cURL commands.
@@ -130,3 +122,4 @@ With Requestly, it does.
 
 
 ---
+
