@@ -1,4 +1,4 @@
-Collection Name: Appwrite Cloud APIs
+# Collection Name: Appwrite Cloud APIs
 
 Description: Free and Open Source Backend as a Service for authentication, databases, storage, and functions
 
