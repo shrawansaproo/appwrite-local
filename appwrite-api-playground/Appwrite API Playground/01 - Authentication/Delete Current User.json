@@ -3,7 +3,7 @@
   "rank": "ax",
   "request": {
     "type": "http",
-    "url": "http://localhost:9051/v1/account/sessions/current",
+    "url": "http://localhost/v1/account/sessions/current",
     "scripts": {
       "preRequest": "",
       "postResponse": ""
@@ -12,7 +12,7 @@
     "queryParams": [],
     "headers": [
       {
-        "id": 1772092028970,
+        "id": 1,
         "key": "content-type",
         "value": "application/json",
         "isEnabled": true,
@@ -20,17 +20,17 @@
         "dataType": "string"
       },
       {
-        "id": 1772092032711,
+        "id": 2,
         "key": "X-Appwrite-Project",
-        "value": "6998a62f001b23ac94ed",
+        "value": "{{APPWRITE_PROJECT_ID}}",
         "isEnabled": true,
         "description": "",
         "dataType": "string"
       },
       {
-        "id": 1772092373827,
+        "id": 3,
         "key": "X-Appwrite-Session",
-        "value": "69a0017b6978ebb05e79",
+        "value": "{{SESSION_ID}}",
         "isEnabled": true,
         "description": "",
         "dataType": "string"
