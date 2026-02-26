@@ -1,0 +1,28 @@
+{
+  "name": "Delete Current Session",
+  "rank": "ax",
+  "request": {
+    "type": "http",
+    "method": "DELETE",
+    "url": "{{APPWRITE_ENDPOINT}}/v1/account/sessions/current",
+    "headers": [
+      {
+        "key": "content-type",
+        "value": "application/json"
+      },
+      {
+        "key": "X-Appwrite-Project",
+        "value": "{{PROJECT_ID}}"
+      },
+      {
+        "key": "X-Appwrite-Session",
+        "value": "{{SESSION_ID}}"
+      }
+    ],
+    "queryParams": [],
+    "scripts": {
+      "preRequest": "",
+      "postResponse": ""
+    }
+  }
+}
