@@ -1,13 +1,10 @@
-# Appwrite API Playground – Requestly Collection
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/shrawansaproo/appwrite-local/main/appwrite%20logo.png" alt="Appwrite Logo" height="90"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/shrawansaproo/appwrite-local/main/requestly%20logo.png" alt="Requestly Logo" height="90"/>
 </p>
 
----
-
+# Appwrite API Playground – Requestly Collection
 Test the core Appwrite APIs locally using Requestly —  
 no manual setup, no shared links, no extra accounts.
 ## Quick Start: API Testing with Requestly
@@ -122,4 +119,5 @@ With Requestly, it does.
 
 
 ---
+
 
