@@ -4,19 +4,26 @@
   <img src="https://raw.githubusercontent.com/shrawansaproo/appwrite-local/main/requestly%20logo.png" alt="Requestly Logo" height="90"/>
 </p>
 
-# Appwrite API Playground – Requestly Collection
-Test the core Appwrite APIs locally using Requestly —  
-no manual setup, no shared links, no extra accounts.
+# Appwrite API Playground - Requestly Collection
+
+Test the core Appwrite APIs locally using Requestly, no manual setup, no shared links, no extra accounts.
+
+# Why Requestly?
+
+[Requestly](https://requestly.com) is a Git-friendly API testing tool that lives inside your repo. Clone the project, open Requestly, point it at the `.requestly/` folder, and your entire API collection is ready to use. No imports, no exports, no friction.
+
+<img width="1440" height="900" alt="API Testing" src="https://raw.githubusercontent.com/shrawansaproo/appwrite-local/main/appwrite-api-play.png" />
+
 ## Quick Start: API Testing with Requestly
 
-Get up and running with Appwrite's APIs in under 60 seconds using Requestly — no manual setup, no copy-pasting cURL commands.
+Get up and running with Appwrite's APIs in under 60 seconds using Requestly, no manual setup, no copy-pasting cURL commands.
 
 
 ### Prerequisites
 
 - [Requestly Desktop](https://requestly.com/desktop) installed  
 - [Docker](https://docker.com) installed and running  
-- This repository cloned locally  
+- This repository was cloned locally  
 
 
 ### Step 1: Start Appwrite Locally
@@ -116,8 +123,3 @@ Just open Requestly, point it at this repo, and start building.
 API testing should integrate seamlessly into your development workflow.
 
 With Requestly, it does.
-
-
----
-
-
