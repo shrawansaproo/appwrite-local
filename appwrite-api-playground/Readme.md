@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="[appwrite-api-playground/appwrite logo.png](https://github.com/shrawansaproo/appwrite-local/blob/71d4c5d517e7c2af51acc4dc5827a4b24b387013/appwrite-api-playground/appwrite%20logo.png)" alt="Appwrite Logo" height="90"/>
+  <img src="https://github.com/shrawansaproo/appwrite-local/blob/71d4c5d517e7c2af51acc4dc5827a4b24b387013/appwrite-api-playground/appwrite%20logo.png" alt="Appwrite Logo" height="90"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="[appwrite-api-playground/requestly logo.png](https://github.com/shrawansaproo/appwrite-local/blob/71d4c5d517e7c2af51acc4dc5827a4b24b387013/appwrite-api-playground/requestly%20logo.png)" alt="Requestly Logo" height="90"/>
+  <img src="https://github.com/shrawansaproo/appwrite-local/blob/71d4c5d517e7c2af51acc4dc5827a4b24b387013/appwrite-api-playground/requestly%20logo.png" alt="Requestly Logo" height="90"/>
 </p>
 
 # Appwrite API Playground - Requestly Collection
@@ -12,7 +12,7 @@ Test the core Appwrite APIs locally using Requestly, no manual setup, no shared 
 
 [Requestly](https://requestly.com) is a Git-friendly API testing tool that lives inside your repo. Clone the project, open Requestly, point it at the `.requestly/` folder, and your entire API collection is ready to use. No imports, no exports, no friction.
 
-<img width="1440" height="900" alt="API Testing" src="[appwrite-api-playground/appwrite-api-play.png](https://github.com/shrawansaproo/appwrite-local/blob/71d4c5d517e7c2af51acc4dc5827a4b24b387013/appwrite-api-playground/appwrite-api-play.png)" />
+<img width="1440" height="900" alt="API Testing" src="https://github.com/shrawansaproo/appwrite-local/blob/71d4c5d517e7c2af51acc4dc5827a4b24b387013/appwrite-api-playground/appwrite-api-play.png" />
 
 No accounts. No collection sharing links. No sync conflicts. Just clone → import → test → ship.
 
@@ -125,6 +125,7 @@ Just open Requestly, point it at this repo, and start building.
 API testing should integrate seamlessly into your development workflow.
 
 With Requestly, it does.
+
 
 
 
