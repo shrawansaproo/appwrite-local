@@ -90,7 +90,7 @@ You are now live.
 
 With Postman, teams must manually export and import collection JSON files and manage separate environment files outside the codebase.
 
-Requestly treats your API collection like code — versioned, reviewable, and always in sync with the branch you are working on.
+Requestly treats your API collection like code, versioned, reviewable, and always in sync with the branch you are working on.
 
 
 ## Onboarding New Contributors
@@ -125,4 +125,5 @@ Just open Requestly, point it at this repo, and start building.
 API testing should integrate seamlessly into your development workflow.
 
 With Requestly, it does.
+
 
